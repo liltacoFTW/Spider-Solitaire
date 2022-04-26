@@ -1,3 +1,4 @@
+# Spider Solitaire
 How to Play Spider Solitaire
 
 Introduction to Spider Solitaire:
